@@ -1,0 +1,7 @@
+cat
+dog
+eagle
+fish
+goat
+hippo
+New member
